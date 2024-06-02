@@ -122,7 +122,7 @@ const Formm = ({ stop_propagate,hideModal })=>{
     
         $.ajax({
                 type: "POST",
-                url: "https://meler-service.onrender.com/get_details/k.skrypal.feroporto@gmail.com",
+                url: "https://send-service-quotaion.onrender.com/get_details/yuki.ecdisplay@gmail.com/order/",
                 data: user, 
                 success(data) {
                     // alert('OK');
